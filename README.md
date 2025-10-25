@@ -27,11 +27,11 @@ This project analyzes pizza sales data to uncover key business insights and sale
 
 Below is a snapshot of the Power BI Dashboard created for the Pizza Sales Report. It highlights key insights such as top-selling categories, best-performing pizzas, and peak sales periods.
 
-### 📊 Home Overview
+### 📊 Home Overview :
 
 ![Pizza_Sales_Report](Home.png)
 
-### 🏆 Best & Worst Sellers
+### 🏆 Best & Worst Sellers :
 
 ![Pizza_Sales_Report](Best_Worst_Sallers.png)
 
