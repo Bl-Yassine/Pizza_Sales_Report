@@ -23,6 +23,18 @@ This project analyzes pizza sales data to uncover key business insights and sale
   Worst Seller:
   - Brie Carré Pizza — Lowest revenue, quantity, and orders.
 
+## 🖼️ Visualization Preview
+
+Below is a snapshot of the Power BI Dashboard created for the Pizza Sales Report. It highlights key insights such as top-selling categories, best-performing pizzas, and peak sales periods.
+
+# 📊 Home Overview
+
+![Pizza_Sales_Report](home.png)
+
+# 🏆 Best & Worst Sellers
+
+![Pizza_Sales_Report](Best - Worst Sallers.png)
+
 ## 📌 Conclusion
 
 This project demonstrates how data-driven insights can help optimize product offerings, pricing strategies, and marketing focus — ultimately boosting overall pizza sales performance.
