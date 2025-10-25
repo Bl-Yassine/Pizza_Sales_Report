@@ -33,7 +33,7 @@ Below is a snapshot of the Power BI Dashboard created for the Pizza Sales Report
 
 # 🏆 Best & Worst Sellers
 
-![Pizza_Sales_Report](Best - Worst Sallers.png)
+![Pizza_Sales_Report](Best_Worst Sallers.png)
 
 ## 📌 Conclusion
 
