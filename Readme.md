@@ -1,4 +1,4 @@
-#🍕 Pizza Sales Report
+# 🍕 Pizza Sales Report
 ## 📊 Overview
 
 This project analyzes pizza sales data to uncover key business insights and sales trends. Using SQL Server for data extraction and transformation, and Power BI for visualization, the report highlights top-performing products, customer preferences, and sales performance across various dimensions.
