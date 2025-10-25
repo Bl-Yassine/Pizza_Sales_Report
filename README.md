@@ -29,7 +29,7 @@ Below is a snapshot of the Power BI Dashboard created for the Pizza Sales Report
 
 # 📊 Home Overview
 
-![Pizza_Sales_Report](home.png)
+![Pizza_Sales_Report](Home.png)
 
 # 🏆 Best & Worst Sellers
 
